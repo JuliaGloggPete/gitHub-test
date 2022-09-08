@@ -24,6 +24,8 @@ public class Main {
         // git add . = gör alla fila redo för att comittas
         //git commit - m " " = man läggga in meddelandet om vad man har förändrad sen innan
         // git log - dagboken quasi
+        // om jag vill ta ner ett annat projekt - git clone och adressen 
+
 
 
 
